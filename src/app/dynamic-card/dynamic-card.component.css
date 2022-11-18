@@ -1,0 +1,23 @@
+section{
+    padding-top: 30px;
+}
+.generate-cards{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    border: none;
+}
+
+.form-group{
+    margin: 15px 0px;
+}
+label{
+    margin-bottom: 5px;
+}
+img{
+    max-height: 300px;
+    object-fit: contain;
+    display: block;
+    
+}
